@@ -77,10 +77,8 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 We welcome contributions! If you have ideas for new features or find any bugs, feel free to create a pull request or open an issue.
 
-## 📝 License
+## 📝 COPYRIGHT
 
-This project is licensed under the **MIT License**.
-
----
+## © 2024 Brainwave. All rights reserved and developed by [LEGEND](https://github.com/legend4tech).
 
 _Brainwave - Elevating web experiences to the next level!_
